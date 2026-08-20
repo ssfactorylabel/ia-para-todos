@@ -49,7 +49,22 @@ Usa `creative_copilot.py` para pedir 5 ideas obvias + 5 ideas locas.
 La complacencia mata el crecimiento. Pide que te reten.  
 Usa `anti_complacency.py` para auditoría brutal antes de gastar $1.
 
----
+## Los 3 Diagramas SSF LABS
+
+### **1. EL LOOP DE HONESTIDAD**
+La base de todo. Si rompes 1 eslabón, la IA te miente.
+![EL LOOP DE HONESTIDAD SSF LABS](./diagramas/loop_honestidad.jpg)
+*GIGO: Garbage In, Garbage Out. KPI: Valor fuera de pantalla > Tiempo en pantalla*
+
+### **2. DE LA NUBE AL BOLSILLO** 
+La guerra física de la IA. Cloud 1GW vs Tu teléfono 5W.
+![DE LA NUBE AL BOLSILLO](./diagramas/nube_bolsillo.jpg)
+*"La pelea de Mark no es filosófica. Es física."*
+
+### **3. EL MAPA COMPLETO DE IA - 3 DIMENSIONES**
+Clasifica cualquier IA: QUÉ HACE x CÓMO APRENDE x DÓNDE VIVE
+![EL MAPA COMPLETO DE IA](./diagramas/mapa_3d_ia.jpg)
+*Punto destacado: Special AI = [Agente, Supervisada+RLHF, Cloud→Edge]*
 
 ## Cómo usar el código
 
