@@ -1,0 +1,3 @@
+# SSF LABS - IA PARA TODOS v1.0
+# Este código no necesita librerías. Es "filosofía ejecutable"
+# Solo pega los prompts en Meta AI Studio, ChatGPT, Claude, etc.
