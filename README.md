@@ -7,7 +7,8 @@
 Filosofía + Técnica para usar Inteligencia Artificial con honestidad, creatividad y sin filtros.
 
 ---
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22036129.svg)](https://doi.org/10.5281/zenodo.22036129)
+**Citar como**: Garbán Hernández, Andres. (2026). *IA PARA TODOS v1.0* [DOI: 10.5281/zenodo.22036129]
 ## ¿Qué es esto?
 
 Olvida el humo de "la IA va a dominar el mundo". 
